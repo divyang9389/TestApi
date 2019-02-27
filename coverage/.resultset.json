@@ -1,0 +1,74 @@
+{
+  "RSpec": {
+    "coverage": {
+      "/Users/leber2/sites/demo/TestApi/app/controllers/sessions_controller.rb": [
+        1,
+        1,
+        null,
+        1,
+        null,
+        1,
+        2,
+        null,
+        null,
+        1,
+        1,
+        null,
+        null
+      ],
+      "/Users/leber2/sites/demo/TestApi/app/controllers/application_controller.rb": [
+        1,
+        1,
+        4,
+        2,
+        null,
+        2,
+        null,
+        null,
+        null,
+        1,
+        2,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "/Users/leber2/sites/demo/TestApi/app/controllers/registrations_controller.rb": [
+        1,
+        1,
+        null,
+        1,
+        4,
+        null,
+        4,
+        4,
+        null,
+        null
+      ],
+      "/Users/leber2/sites/demo/TestApi/app/models/jwt_blacklist.rb": [
+        0,
+        0,
+        null,
+        0,
+        0
+      ],
+      "/Users/leber2/sites/demo/TestApi/app/models/user.rb": [
+        0,
+        null,
+        null,
+        0,
+        0,
+        0,
+        0
+      ]
+    },
+    "timestamp": 1551230073
+  }
+}
